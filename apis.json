@@ -1,0 +1,61 @@
+{
+    "name": "Bugzilla",
+    "description": "Did you know? Mozilla \u2014 the maker of Firefox \u2014 fights to keep the Internet a global public resource, open and accessible to all.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1035-bugzilla.jpg",
+    "tags": [
+        "api tools",
+        "bug tracking",
+        "bug tracking service",
+        "coding",
+        "have api",
+        "programming",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/bugzilla\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Bugzilla",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1035-bugzilla.jpg",
+            "humanURL": "https:\/\/wiki.mozilla.org\/Bugzilla:REST_API",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/bugzilla-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/bugzilla.mozilla.org\/rest\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mozilla"
+        },
+        {
+            "type": "Email",
+            "url": "research_requests@mozilla.com"
+        },
+        {
+            "type": "Email",
+            "url": "trademark-permissions@mozilla.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mozilla"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/wiki.mozilla.org\/Bugzilla:REST_API"
+        }
+    ]
+}
